@@ -18,7 +18,7 @@ body{
 .container{
     width: 400px;
     height: min-content;
-    background-color: #bcacbc;
+    background-color: #fcfcfc;
     border-radius: 12px;
     padding: 28px;
 }
